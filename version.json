@@ -1,1 +1,14 @@
-{"app_name":"crm","version":"1.0.0","build_number":"1","package_name":"crm"}
+{"app_name":"crm","version":"1.0.0","build_number":"1","package_name":"crm","headers": [
+    {
+      "source": "/flutter.js",
+      "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+    },
+    {
+      "source": "/main.dart.js",
+      "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+    },
+    {
+      "source": "/index.html",
+      "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+    }
+  ]}
