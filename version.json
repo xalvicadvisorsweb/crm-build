@@ -1,6 +1,1 @@
-{"app_name":"crm","version":"1.0.0","build_number":"1","package_name":"crm","headers": [
-    {
-      "source": "/(.*)",
-      "headers": [{ "key": "Cache-Control", "value": "no-cache, no-store, must-revalidate" }]
-    }
-  ]}
+{"app_name":"crm","version":"1.0.0","build_number":"1","package_name":"crm"}
