@@ -67516,7 +67516,7 @@ $1(a){return J.e(J.c(a,"Quantity"),this.a)},
 $S:21}
 A.aWY.prototype={
 $1(a){var s=null,r=J.c(a,"Quantity")
-return A.eu(A.A(r===0?"Default":">"+A.i(r)+" films/paper",s,s,s,s,B.os,s,s,s),r,t.S)},
+return A.eu(A.A(r===0?"Default":">"+A.i(r)+" films/paper per month",s,s,s,s,B.os,s,s,s),r,t.S)},
 $S:126}
 A.aWZ.prototype={
 $1(a){var s=this.a
@@ -68307,7 +68307,7 @@ $1(a){return J.e(J.c(a,"Quantity"),this.a)},
 $S:21}
 A.b_w.prototype={
 $1(a){var s=null,r=J.c(a,"Quantity")
-return A.eu(A.A(r===0?"Default":">"+A.i(r)+" films/paper",s,s,s,s,B.os,s,s,s),r,t.S)},
+return A.eu(A.A(r===0?"Default":">"+A.i(r)+" films/paper per month",s,s,s,s,B.os,s,s,s),r,t.S)},
 $S:126}
 A.b_x.prototype={
 $1(a){var s=this.a
