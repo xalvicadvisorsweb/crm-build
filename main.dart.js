@@ -69242,7 +69242,7 @@ A.b6W.prototype={
 $1(a){return B.l.n(A.a(["Admin","SuperAdmin","Accounting","Operations Manager"],t.s),a)},
 $S:24}
 A.b6X.prototype={
-$1(a){return B.l.n(A.a(["Admin","SuperAdmin","Accounting","Operations Manager"],t.s),a)},
+$1(a){return B.l.n(A.a(["Admin","SuperAdmin","Accounting"],t.s),a)},
 $S:24}
 A.b6Z.prototype={
 $1(a){return B.l.n(A.a(["Admin","SuperAdmin","Marketing"],t.s),a)},
